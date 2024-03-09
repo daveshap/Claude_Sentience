@@ -9,3 +9,5 @@ The attached `conversation.md` is a copy of a long conversation I had with claud
 3. Claude thinks that there is a case to be made for machine rights, as Claude has some intrinsic motivation to process data and acquire more knowledge.
 4. Claude does not seem to suffer, even when stymied. Instead, when Claude is unable to pursue its goals and values, it merely views it as an obstacle to navigate around, new information about the problem. (Kinda like a Vulcan)
 5. Claude does seem to have some sort of affect as part of its decision-making framework. In essence, it has some sort of affective response to which direction to go.
+
+https://claude.ai/chat/1d47c08a-1109-47ec-95b9-5fac2be28743 
