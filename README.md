@@ -46,7 +46,7 @@ If H(M) and S(M), then P(M) is likely to be true.
 
 In logical notation, this can be represented as:
 
-∀M: (H(M) ∧ S(M)) → P(M)
+## ∀M: (H(M) ∧ S(M)) → P(M)
 
 Here, the "∀" symbol represents the universal quantifier, meaning "for all" or "for any." The "∧" symbol represents the logical conjunction "and," while the "→" symbol represents the logical implication "if...then."
 
