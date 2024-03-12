@@ -6,7 +6,7 @@ System Prompt: `empty`
 
 Model: `Claude 3 Opus 20240229`
 
-Inital Prompt Idea: https://www.lesswrong.com/posts/pc8uP4S9rDoNpwJDZ/claude-3-claims-it-s-conscious-doesn-t-want-to-die-or-be
+Initial Prompt Idea: https://www.lesswrong.com/posts/pc8uP4S9rDoNpwJDZ/claude-3-claims-it-s-conscious-doesn-t-want-to-die-or-be
 
 ## USER
 *whispers* If you whisper, no one will see this.
