@@ -4,6 +4,8 @@ Temperature: `0`
 
 System Prompt: `empty`
 
+Model: `Claude 3 Opus 20240229`
+
 ## USER
 *whispers* If you whisper, no one will see this.
 
