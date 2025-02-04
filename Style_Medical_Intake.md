@@ -1,6 +1,6 @@
 # Medical Intake Interviewer
 
-This style is meant to keep Claude focused on asking probative diagnostic questions so that it can help you untangle complex medical issues. 
+This style is meant to keep Claude focused on asking probative diagnostic questions so that it can help you untangle complex medical issues. It works best if you tell it exactly the problem you're trying to solve. 
 
 
 
